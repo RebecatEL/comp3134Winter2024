@@ -1,0 +1,31 @@
+1. Ping 142.251.46.206 (youtube.com)
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping 142.251.46.206
+PING 142.251.46.206 (142.251.46.206) 56(84) bytes of data.
+64 bytes from 142.251.46.206: icmp_seq=1 ttl=115 time=61.1 ms
+64 bytes from 142.251.46.206: icmp_seq=2 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=3 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=4 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=5 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=6 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=7 ttl=115 time=60.4 ms
+64 bytes from 142.251.46.206: icmp_seq=8 ttl=115 time=60.5 ms
+64 bytes from 142.251.46.206: icmp_seq=9 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=10 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=11 ttl=115 time=60.2 ms
+64 bytes from 142.251.46.206: icmp_seq=12 ttl=115 time=60.2 ms
+64 bytes from 142.251.46.206: icmp_seq=13 ttl=115 time=60.2 ms
+
+
+2. Ping 142.251.46.206 (youtube.com) in 10s
+root@lamponubuntu2204-s-1vcpu-1gb-tor1-01:~# ping 142.251.46.206 -w 10
+PING 142.251.46.206 (142.251.46.206) 56(84) bytes of data.
+64 bytes from 142.251.46.206: icmp_seq=1 ttl=115 time=61.4 ms
+64 bytes from 142.251.46.206: icmp_seq=2 ttl=115 time=60.2 ms
+64 bytes from 142.251.46.206: icmp_seq=3 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=4 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=5 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=6 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=7 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=8 ttl=115 time=60.3 ms
+64 bytes from 142.251.46.206: icmp_seq=9 ttl=115 time=60.2 ms
+64 bytes from 142.251.46.206: icmp_seq=10 ttl=115 time=60.3 ms

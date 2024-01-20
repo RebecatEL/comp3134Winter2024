@@ -1,0 +1,21 @@
+1. amazon.com
+52.94.236.248 - Ashburn, Virginia, United States of America
+54.239.28.85 - Ashburn, Virginia, United States of America
+205.251.242.103 - Ashburn, Virginia, United States of America
+
+2. rakuten.com
+216.238.190.102 - Pendleton, Oregon, United States of America
+216.238.190.103 - Pendleton, Oregon, United States of America
+
+3. youtube.com
+142.251.46.206 - Sunnyvale, California, United States of America
+2607:f8b0:4005:80f::200e - Sunnyvale, California, United States of America
+
+4. timhortons.com
+18.238.192.52 - San Jose, California, United States of America
+18.238.192.112 - San Jose, California, United States of America
+18.238.192.120 - San Jose, California, United States of America
+18.238.192.74 - San Jose, California, United States of America
+
+5. mcdonalds.com
+44.208.147.61 - Ashburn, Virginia, United States of America

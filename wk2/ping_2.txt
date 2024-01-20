@@ -1,0 +1,13 @@
+rebec@H MINGW64 ~
+$ ping 146.190.240.68 -w 10
+
+Pinging 146.190.240.68 with 32 bytes of data:
+Reply from 146.190.240.68: bytes=32 time=3ms TTL=59
+Reply from 146.190.240.68: bytes=32 time=2ms TTL=59
+Reply from 146.190.240.68: bytes=32 time=23ms TTL=59
+Reply from 146.190.240.68: bytes=32 time=2ms TTL=59
+
+Ping statistics for 146.190.240.68:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 2ms, Maximum = 23ms, Average = 7ms
