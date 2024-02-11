@@ -1,0 +1,6 @@
+6. Restart the sshd service
+service ssh restart
+
+7. Open a new GitBash window and log into your ssh service using the new port
+ssh -p 2222 root@146.190.240.68
+
