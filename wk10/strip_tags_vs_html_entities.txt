@@ -1,0 +1,3 @@
+What is the difference between the two solutions?
+I used strip_tags() to strip any HTML tags from the user input before displaying it.
+I used htmlspecialchars() to convert special characters to HTML entities.

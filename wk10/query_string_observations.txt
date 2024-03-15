@@ -1,0 +1,13 @@
+1) Navigate to the form and type a valid English word. Write your observations.
+I typed "apple" and the "apple" is displayed above the form and in the url showing parameter q=apple.
+
+2) Navigate to the URL and type an invalid English word after the `/browse/` section of the URL. Write your observations
+I typed "/browse/123erfd" in the URL, nothing shows in the webpage, and the url showing like this: http://146.190.240.68/wk10/sending_info_to_app_1.php/browse/123erfd.
+
+3) Navigate to the form and type the following text: <script>alert(%27hello%27)</script> Write your observations.
+Nothing shows in the webpage, but the URL showing like this (added the new text after the result in question 2:
+http://146.190.240.68/wk10/sending_info_to_app_1.php/browse/123erfd?q=%3Cscript%3Ealert%28%2527hello%2527%29%3C%2Fscript%3E
+
+4) Navigate to the URL and type the following text: <script>alert(%27hello%27)</script> after the `term=` section of the URL. Write your observations.
+Nothing shows in the webpage, and the URL showing like this:
+http://146.190.240.68/wk10/sending_info_to_app_1.php?term=%3Cscript%3Ealert(%27hello%27)%3C/script%3E
