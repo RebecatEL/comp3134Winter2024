@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+The parameter q set to %2e%2e%2f which is URL encoded for ../ , so this is requesting to list the contents of the directory one level above the current directory
+
+• What sensitive information is given by this page
+The directory name

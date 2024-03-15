@@ -1,0 +1,8 @@
+1. Create a function isValidPath($path) to check whether to path is valid by:
+- Check if the path is trying to access directories before the html directory. If yes, return false.
+- Check if the directory exists. If no, return false.
+- Check if the path contains a file (which contains an extension). If yes, return false.
+
+
+2. If the path is valid, return <pre></pre>, 
+else if it is invalid(false), return "Invalid" in the screen

@@ -1,0 +1,5 @@
+• What you see on the browser (the issue)
+It shows the contents of the directory two levels above the current directory
+
+• What sensitive information is given by this page
+The directory name of web folder

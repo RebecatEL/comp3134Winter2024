@@ -1,0 +1,8 @@
+• What you see on the browser (the issue)
+- The codes in php shows the location level of the php file.
+- In Using the Query String, it shows it accepts the parameter "q".
+- In Mystery Task 1, It responds warning of calling scandir function.
+
+
+• What sensitive information is given by this page
+It shows the function name of the php file called, what did the function do, and the location (i.e. line 7 of the php) of the warning appears.
